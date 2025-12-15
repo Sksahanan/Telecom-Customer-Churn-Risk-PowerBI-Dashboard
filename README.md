@@ -16,6 +16,7 @@ The dashboard surfaces these headline metrics directly:
 
 ## Dashboards Included
 ### 1) Churn Dashboard
+<img width="1186" height="663" alt="image" src="https://github.com/user-attachments/assets/30168d7b-88f4-4100-a67a-914db9f98fe6" />
 A management view focused on:
 - Customers at risk and billing exposure (monthly/yearly charges)
 - Support load signals (tech/admin tickets)
@@ -26,6 +27,7 @@ A management view focused on:
 - Services signed up for (phone, streaming, security, tech support, etc.)
 
 ### 2) Customer Risk Analysis
+<img width="1179" height="666" alt="image" src="https://github.com/user-attachments/assets/d378006b-b746-4723-8fd6-a8dced4d401e" />
 A diagnostic view for churn drivers:
 - Churn by **internet service type**
 - Customer distribution by internet service
